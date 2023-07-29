@@ -1,0 +1,15 @@
+.bill{
+    width: 24%;
+    height: 100vh;
+    margin: 10px 10px 10px 5px;
+    background-color: rgb(239, 245, 249);
+    padding: 10px;
+}
+
+.buttonBill{
+    width:100%;
+    margin-top: 50px;
+    left:50%
+    /* display: flex;
+    flex:1; */
+}

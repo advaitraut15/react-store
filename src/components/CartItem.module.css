@@ -1,0 +1,19 @@
+.cartItem{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cartItemDetails{
+    display: flex;
+    justify-content: space-between;
+    width: 50%
+}
+
+.cartItemImage{
+    width: 100px;
+}
+
+.cartItemIcon{
+    height: 30px;
+    width: 30px;
+}
